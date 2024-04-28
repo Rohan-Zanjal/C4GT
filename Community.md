@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Rohan Zanjal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Rohan-Zanjal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/rohan-zanjal-561a1a194</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Priyadarshini College of Engineering, Nagpur</td>
+  </tr>
+</table>
